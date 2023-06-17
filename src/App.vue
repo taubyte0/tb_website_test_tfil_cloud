@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="./assets/logo.png" style="max-width: 500px;">
+  <HelloWorld msg="A Cloud Computing Network where everything is a CID!"/>
 </template>
 
 <script>
